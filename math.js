@@ -34,7 +34,16 @@ const mathTopics = [
   "Discrete Mathematics", 
   "Functional Analysis", 
   "Real Analysis", 
-  "Complex Analysis", 
+  "Complex Analysis",
+  "Lebesgue Measure", 
+  "Biomathematics", 
+  "Asymptotic Method", 
+  "Machine Learning",
+  "Numerical Analysis", 
+  "Operation Research", 
+  "Abstract Algebra", 
+  "Vector Analysis",
+  
   
 ];
 
@@ -65,7 +74,7 @@ function displaySearchResults(topics) {
     });
     document.getElementById("search-button").addEventListener("click", function () {
         const searchTerm = document.getElementById("search-input").value;
-        window.location.href="/storage/emulated/0/images/Mmathematics%20Website/?q=${searchTerm}";
+        window.location.href="/philipmeliga.github.io/Math-tutorial/?q=${searchTerm}";
     });
     searchSuggestions.appendChild(suggestion);
   });
