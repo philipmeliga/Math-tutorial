@@ -1,5 +1,5 @@
 img{
-    margin: 0 auto;
+    
     width: 350px;
     height:350px;
     text-align:center;
@@ -313,16 +313,14 @@ footer{
   background-color: #3e8e41;
 }
 #search-input{
-    display:block;
-    margin: 0 auto;
+    
     border-radius:4px;
     height: 30px;
     background: ##ffffff;
     
 }
 #search-button{
-    display:block;
-    margin: 0 auto;
+    
     background: green;
     border-radius:4px;
     height: 30px;
