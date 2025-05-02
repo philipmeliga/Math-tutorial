@@ -1,9 +1,17 @@
 img{
-    
+    display:block;
+    margin: 0 auto;
     width: 350px;
     height:350px;
     text-align:center;
     border-radius: 5%;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
 }
 nav{
     height: 20px;
