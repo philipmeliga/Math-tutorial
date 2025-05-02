@@ -7,18 +7,12 @@ img{
     border-radius: 5%;
 
 }
-button{
-   display: block;
-    margin: 50vh auto 0;
-    transform: translate(-50%, -50%);
-}
 nav{
     height: 20px;
     
 }
 #problem{
-    display:block;
-    margin: 0 auto;
+    left:50%;
     position: absolute;
     background:white;
     width:150px;
@@ -320,14 +314,14 @@ footer{
   background-color: #3e8e41;
 }
 #search-input{
-    
+    left:50%;
     border-radius:4px;
     height: 30px;
     background: ##ffffff;
     
 }
 #search-button{
-    
+    left:50%;
     background: green;
     border-radius:4px;
     height: 30px;
