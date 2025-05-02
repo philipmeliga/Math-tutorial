@@ -313,14 +313,16 @@ footer{
   background-color: #3e8e41;
 }
 #search-input{
-    
+    position: absolute; 
+    left:50%;
     border-radius:4px;
     height: 30px;
     background: ##ffffff;
     
 }
 #search-button{
-    
+    position: absolute;
+    left:50%;
     background: green;
     border-radius:4px;
     height: 30px;
