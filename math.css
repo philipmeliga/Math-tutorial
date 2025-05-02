@@ -12,7 +12,7 @@ nav{
     
 }
 #problem{
-    left:50%;
+    
     position: absolute;
     background:white;
     width:150px;
@@ -314,14 +314,14 @@ footer{
   background-color: #3e8e41;
 }
 #search-input{
-    left:50%;
+    
     border-radius:4px;
     height: 30px;
     background: ##ffffff;
     
 }
 #search-button{
-    left:50%;
+    
     background: green;
     border-radius:4px;
     height: 30px;
